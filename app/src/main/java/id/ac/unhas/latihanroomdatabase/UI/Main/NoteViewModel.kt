@@ -3,8 +3,8 @@ package id.ac.unhas.latihanroomdatabase.UI.Main
 import android.app.Application
 import androidx.lifecycle.AndroidViewModel
 import androidx.lifecycle.LiveData
-import id.ac.unhas.latihanroomdatabase.Database.Note.Note
-import id.ac.unhas.latihanroomdatabase.Database.Note.NoteRepository
+import id.ac.unhas.latihanroomdatabase.Database.note.Note
+import id.ac.unhas.latihanroomdatabase.Database.note.NoteRepository
 
 class NoteViewModel (application: Application) : AndroidViewModel(application) {
 

@@ -5,7 +5,7 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
-import id.ac.unhas.latihanroomdatabase.Database.Note.Note
+import id.ac.unhas.latihanroomdatabase.Database.note.Note
 import id.ac.unhas.latihanroomdatabase.R
 import kotlinx.android.synthetic.main.item_note.view.*
 

@@ -1,4 +1,4 @@
-package id.ac.unhas.latihanroomdatabase.Database.Note
+package id.ac.unhas.latihanroomdatabase.Database.note
 
 import androidx.room.ColumnInfo
 import androidx.room.Entity
